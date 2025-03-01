@@ -2,7 +2,7 @@
 - 👀 I’m interested in Agile and Software Development 
 - 🌱 I’m currently learning Web Development and Machine Learning 
 - 💞️ I’m looking to collaborate on Hackathons and Open Source Contributions
-- 📫 How to reach me via dbalamurugan555@gmail.com 
+- 📫 You can reach me via dbalamurugan555@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
