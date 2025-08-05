@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Bala Murugan D</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Bala </h1></summary>
   </ul>
 </div>
 
