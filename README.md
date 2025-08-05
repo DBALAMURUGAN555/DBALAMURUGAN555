@@ -16,14 +16,12 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi there👋, I'm Bala Murugan D</h1></summary>
   </ul>
 </div>
-
 
 <!--About Me-->
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
@@ -34,7 +32,9 @@ You can click the Preview link to take a look at your changes.
 <!-- - :briefcase: Currently working as a `Full Stack Developer` at [0em](https://0emlabs.com/), developing escrow contracts for stable coins
 - :memo: Previously worked at [Tokunize](https://www.tokunize.com/), used Django and react for web development and developed smart contracts for RWA tokenisation -->
 - :trophy: Winner of HackronyX National hackathon 
-<!-- - :computer: Developed `CodeGene`, an AI-powered smart contract insurance platform that secured 1st place in Nethermind's bounty 
+- :computer: Spending hours everyday exploring and building in Web 3 , HFT , DeFi .
+<!--
+Developed `CodeGene`, an AI-powered smart contract insurance platform that secured 1st place in Nethermind's bounty 
 - :zap: Vice President of `Decentralised Society` at Southampton - [Join our Discord](https://discord.gg/gZxk25AW) -->
 - :email: **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=BalaMuruganD&amp;color=EA4335&amp;style=flat-square)](dbalamurugan555@gmail.com)
 - :globe_with_meridians: Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-murugan-d-in/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/DBALAMURUGAN23)
