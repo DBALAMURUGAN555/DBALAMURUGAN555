@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 <!-- - :briefcase: Currently working as a `Full Stack Developer` at [0em](https://0emlabs.com/), developing escrow contracts for stable coins
 - :memo: Previously worked at [Tokunize](https://www.tokunize.com/), used Django and react for web development and developed smart contracts for RWA tokenisation -->
 - :trophy: Winner of HackronyX National hackathon 
-- :computer: Spending hours everyday exploring and building in Web 3 , HFT , DeFi .
+- :computer: Spending hours everyday exploring and building in Web 3 , NFT , DeFi .
 <!--
 Developed `CodeGene`, an AI-powered smart contract insurance platform that secured 1st place in Nethermind's bounty 
 - :zap: Vice President of `Decentralised Society` at Southampton - [Join our Discord](https://discord.gg/gZxk25AW) -->
