@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 <!--
 <picture> <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" width = 200px></picture>
 -->
-- :school: I'm a third year `B.E. Computer Science and Engineering` student at CIT Chennai (Anna University)
-<!-- - :briefcase: Currently working as a `Full Stack Developer` at [0em](https://0emlabs.com/), developing escrow contracts for stable coins
+- :school: I'm a CSE UnderGRAD   
+<!-- - :briefcase: Currently working as a `Full Stack Developer` at [0em](https://0emlabs.com/), developing escrow contracts for stable coins    { `B.E. Computer Science and Engineering` student at CIT Chennai (Anna University)}
 - :memo: Previously worked at [Tokunize](https://www.tokunize.com/), used Django and react for web development and developed smart contracts for RWA tokenisation -->
 - :trophy: Winner of HackronyX National hackathon 
 - :computer: Spending hours everyday exploring and building in Web 3 , NFT , DeFi .
